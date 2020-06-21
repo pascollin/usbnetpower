@@ -6,8 +6,8 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 #Dependencies
-yum install python
-easy_install pyusb
+apt install python3 python3-pip
+pip3 install pyusb
 
 cp usbnetpower8800.py /bin/power
 chmod a+x /bin/power

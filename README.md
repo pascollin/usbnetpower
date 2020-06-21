@@ -1,7 +1,7 @@
 usbnetpower
 ===========
 
-This is a fork of [usbnetpower](http://code.google.com/p/usbnetpower8800/) by Paul Marks. It includes an install script.
+This is a fork of [usbnetpower](https://github.com/nickodell/usbnetpower) by nickodell. It updates the install script to debian and python3.
 
 The install script will:
 
